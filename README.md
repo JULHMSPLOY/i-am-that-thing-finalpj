@@ -18,7 +18,7 @@
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 | Gameplay Preview 1 | Gameplay Preview 2 |
 | :---: | :---: |
@@ -51,7 +51,7 @@ i-am-that-thing-finalpj/
 
 ---
 
-## 📄 License
+## License
 
 [![CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
