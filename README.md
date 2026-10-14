@@ -32,7 +32,7 @@
 | :--- | :--- |
 | **Move** | `W`, `A`, `S`, `D` |
 | **Camera Look** | `Mouse` |
-| **Possess / Unpossess Object** | `E` / `Left Click` *(แก้ปุ่มตามที่ใช้จริง)* |
+| **Possess / Unpossess Object** | `E` / `Left Click` |
 | **Jump / Special Action** | `Spacebar` |
 | **Pause / Menu** | `ESC` |
 
@@ -48,6 +48,28 @@ i-am-that-thing-finalpj/
 ├── Screenshot_0.png         # Gameplay preview image 1
 ├── Screenshot_1.png         # Gameplay preview image 2
 └── LICENSE                  # Project license information
+```
+
+---
+
+## Tech Stack
+
+- **Game Engine:** Unity
+- **Programming Language:** C#
+- **IDE:** Visual Studio Code / Visual Studio
+
+---
+
+## Getting Started (How to Open in Unity)
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/JULHMSPLOY/i-am-that-thing-finalpj.git
+   ```
+2. Open **Unity Hub** and click **Add** ➔ **Add project from disk**.
+3. Select the cloned `i-am-that-thing-finalpj` directory.
+4. Wait for Unity to import the packages and compile the C# scripts.
+5. In the Project window, navigate to the `Assets/Scenes` folder and open the main scene to test in the Editor.
 
 ---
 
